@@ -1,0 +1,129 @@
+
+VERSION EN ESPAÑOL
+
+
+# Análisis de Datos con Pandas y Matplotlib: Proyecto de Demostración
+
+Este repositorio contiene un Jupyter Notebook diseñado para **demostrar habilidades sólidas en la manipulación, limpieza y visualización de datos** utilizando las librerías esenciales de Python: **Pandas** y **Matplotlib**. 
+
+A través de un conjunto de datos de muestra (mock data), el script simula un flujo de trabajo real de un Analista / Científico de Datos, desde la carga de la información hasta la generación de insights visuales listos para la toma de decisiones.
+
+Alcance: el siguiente analisis se limita a la extraccion de 2 archivos csv ,"Business" que tiene datos de ventas y "Orders" que contiene datos relacionados a las ordenes
+
+
+## 🚀 Objetivo del Proyecto
+El propósito principal de este notebook es exhibir el dominio técnico en:
+* **Estructuración y Limpieza:** Manejo de DataFrames, filtrado de datos y tratamiento de valores nulos o atípicos.
+* **Agregación y Análisis:** Transformación de variables, agrupaciones (`groupby`) y cálculo de métricas clave.
+* **Comunicación Visual:** Creación de gráficos claros, profesionales y bien etiquetados que cuentan la historia detrás de los datos.
+
+## 🛠️ Tecnologías Utilizadas
+* **Python 3.14**
+* **Jupyter Notebook**
+* **Pandas:** Para el análisis y manipulación de datos estructurados.
+* **Matplotlib (Pyplot):** Para la construcción de visualizaciones estáticas e interactivas.
+
+## 📊 Estructura del Notebook
+El código está organizado de manera secuencial siguiendo las mejores prácticas de la industria:
+
+1. **Configuración e Importación:** Carga de librerías y preparación del entorno.
+2. **Exploración Inicial (EDA):** Inspección de la estructura del DataFrame, tipos de datos y estadísticas descriptivas.
+3. **Procesamiento de Datos:** Filtrado, ordenamiento y preparación de los datos de muestra para el análisis.
+4. **Análisis y Agregación:** Extracción de insights cuantitativos mediante funciones avanzadas de Pandas.
+5. **Visualización de Datos:** Generación de gráficos (ej. barras, líneas, dispersión) optimizados con títulos, etiquetas de ejes y leyendas claras usando Matplotlib.
+
+El documento "Bussiness Case Data Analysis" muestra el resumen y una presentacion ejecutiva de los hallazgos mas relevantes identificados.
+
+## 💻 Cómo Ejecutar el Proyecto
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com
+   cd tu-repositorio
+   ```
+
+2. **Instalar las dependencias:**
+   Asegúrate de tener instaladas las librerías necesarias. Puedes instalarlas ejecutando:
+   ```bash
+   pip install pandas matplotlib notebook
+   ```
+
+3. **Abrir el Notebook:**
+   Inicia Jupyter desde tu terminal:
+   ```bash
+   jupyter notebook
+   ```
+   Haz clic en el archivo `.ipynb` para ver y ejecutar las celdas de código.
+
+
+---
+✉️ **Contacto:** Si tienes alguna duda o quieres conectar profesionalmente, puedes encontrarme en [LinkedIn] https://www.linkedin.com/in/daniel-abraham-martinez-palacios-a4a747100/
+
+
+
+
+ENGLISH VERSION
+
+
+# Data Analysis with Pandas and Matplotlib: Demonstration Project
+
+This repository contains a Jupyter Notebook designed to **demonstrate strong skills in data manipulation, cleaning, and visualization** using core Python libraries: **Pandas** and **Matplotlib**.
+
+Through a mock dataset, the script simulates a real-world Data Analyst / Data Scientist workflow, from loading the information to generating actionable visual insights ready for decision-making.
+
+**Scope:** The following analysis is limited to the extraction of 2 CSV files: `"Business"`, which contains sales data, and `"Orders"`, which contains order-related data.
+
+## 🚀 Project Objective
+The main purpose of this notebook is to showcase technical proficiency in:
+* **Structuring & Cleaning:** Managing DataFrames, filtering data, and handling missing values or outliers.
+* **Aggregation & Analysis:** Feature transformation, grouping (`groupby`), and calculating key metrics.
+* **Visual Communication:** Creating clear, professional, and well-labeled charts that tell the story behind the data.
+
+## 🛠️ Technologies Used
+* **Python 3.14**
+* **Jupyter Notebook**
+* **Pandas:** For structured data analysis and manipulation.
+* **Matplotlib (Pyplot):** For building static and interactive visualizations.
+
+## 📊 Notebook Structure
+The code is sequentially organized following industry best practices:
+
+1. **Setup & Imports:** Loading libraries and preparing the environment.
+2. **Exploratory Data Analysis (EDA):** Inspecting the DataFrame structure, data types, and descriptive statistics.
+3. **Data Processing:** Filtering, sorting, and preparing the sample data for analysis.
+4. **Analysis & Aggregation:** Extracting quantitative insights using advanced Pandas functions.
+5. **Data Visualization:** Generating charts (e.g., bar, line, scatter) optimized with clear titles, axis labels, and legends using Matplotlib.
+
+The document `"Business Case Data Analysis"` provides a summary and an executive presentation of the most relevant findings identified.
+
+## 💻 How to Run the Project
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com
+   cd your-repository
+   ```
+
+2. **Install dependencies:**
+   Make sure you have the necessary libraries installed. You can install them by running:
+   ```bash
+   pip install pandas matplotlib notebook
+   ```
+
+3. **Open the Notebook:**
+   Launch Jupyter from your terminal:
+   ```bash
+   jupyter notebook
+   ```
+   Click on the `.ipynb` file to view and run the code cells.
+
+---
+✉️ **Contact:** If you have any questions or would like to connect professionally, you can find me on [LinkedIn](https://www.linkedin.com/in/daniel-abraham-martinez-palacios-a4a747100/).
+
+
+
+
+
+
+
+
